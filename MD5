@@ -1,0 +1,15 @@
+5e04e5e4975964f74ef94888a8bc4ff2 *DESCRIPTION
+6cfe58a57e07f721fe4c569bae3b0fe7 *NAMESPACE
+79b409aab3d196528bba661e6ce90697 *R/grid.R
+3d25ddcec7c94a6aa6393b127bd8af17 *R/grob.R
+fc60139b3067febeee51c086d4f5aedd *R/polyclip.R
+649494469d2c03a961e07738d59442cb *R/trim.R
+6756ef080179cb51017fe65e04642191 *README.md
+f2decfdeb9fb6ecee9570ba9244d0d40 *inst/NEWS.Rd
+239865bdfd83ea8b3da91c7d02945113 *inst/regression-tests/test.R
+3482a25b82bbcb04a1ea96bdddd29e63 *inst/regression-tests/tests.save.pdf
+8533cb1ebb112e3dd7e0fa98112bf0a3 *man/grid.polyclip.Rd
+88bcddb697897d975da169de772dd16b *man/grid.trim.Rd
+77be476b7348f87a5340cb8a83b58526 *man/polyclip.Rd
+7d5f391319027c49989a7e85052a42cb *man/trim.Rd
+7bcac91a4d02d01291594bf3bc8dd470 *man/xyListPath.Rd
