@@ -8,6 +8,11 @@ importFrom("grDevices", "dev.cur", "dev.set", "pdf")
 export("xyListPath",
        "xyListPolygon",
        "xyListLine",
+       "xyListToPath",
+       "xyListToPolygon",
+       "xyListToLine",
+
+       "xyListFromGrob",
 
        "polyclip",
        "trim",
@@ -18,8 +23,10 @@ export("xyListPath",
        "trimGrob")
 
 
-S3method("trim", "character")
 S3method("trim", "default")
+S3method("trim", "character")
+S3method("trim", "GridGrobCoords")
+S3method("trim", "GridGTreeCoords")
 S3method("trim", "grob")
 S3method("trim", "gPath")
          
@@ -39,3 +46,6 @@ S3method("grid.polyclip", "gPath")
 S3method("grid.trim", "character")
 S3method("grid.trim", "default")
 S3method("grid.trim", "gPath")
+
+S3method("xyListFromCoords", "GridGrobCoords")
+S3method("xyListFromCoords", "GridGTreeCoords")

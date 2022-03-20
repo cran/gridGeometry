@@ -1,7 +1,7 @@
 Package: gridGeometry
 Type: Package
 Title: Polygon Geometry in 'grid'
-Version: 0.2-0
+Version: 0.3-0
 Author: Paul Murrell
 Maintainer: Paul Murrell <paul@stat.auckland.ac.nz>
 Description: Functions for performing polygon geometry with 'grid' grobs.
@@ -14,6 +14,6 @@ Imports: grDevices, polyclip (>= 1.10-0)
 Suggests: graphics, lattice
 License: GPL (>= 2)
 NeedsCompilation: no
-Packaged: 2019-05-01 07:49:05 UTC; pmur002
+Packaged: 2022-03-20 19:13:48 UTC; pmur002
 Repository: CRAN
-Date/Publication: 2019-05-03 10:20:03 UTC
+Date/Publication: 2022-03-20 22:10:02 UTC
